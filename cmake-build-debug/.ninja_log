@@ -1,0 +1,21 @@
+# ninja log v5
+1	278	7005224316609954	build.ninja	b74b0176f0245fe
+1	265	7005185168105978	CMakeFiles/CMakeProjectDemo.dir/main.cpp.obj	bc3868f1e02942b8
+1	256	7005223131841947	src/CMakeFiles/CMakeProjectDemo_lib.dir/MyAwesomeClass.cpp.obj	c340a66cfe115b28
+14	1977	7005223149212717	tests/CMakeFiles/CMakeProjectDemo_test.dir/main.cpp.obj	91c6a735fe1782c1
+23	8290	7005223212193250	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	a4bf027e54d6a6d8
+266	418	7005185169575918	CMakeProjectDemo.exe	2102a9e628cf32af
+257	449	7005223133893269	src/libCMakeProjectDemo_lib.a	8da2facd23079a48
+7	2048	7005223149913466	tests/CMakeFiles/CMakeProjectDemo_test.dir/MyAwesomeClassTest.cpp.obj	1da9048d60638ccd
+8292	10428	7005223233696175	lib/libgtest.a	e1c4ccc66bbf35fa
+10428	14050	7005223269853393	tests/CMakeProjectDemo_test.exe	31ff56f421e5fbf4
+5	65	7005224602139651	src/CMakeFiles/CMakeProjectDemo_lib.dir/main.cpp.obj	ba2f5d481c517c13
+66	137	7005224602843909	src/libCMakeProjectDemo_lib.a	b8e03033e4544377
+137	3425	7005224635643708	tests/CMakeProjectDemo_test.exe	31ff56f421e5fbf4
+5	1270	7005225882476836	tests/CMakeFiles/CMakeProjectDemo_test.dir/MyAwesomeClassTest.cpp.obj	1da9048d60638ccd
+1271	4740	7005225917106643	tests/CMakeProjectDemo_test.exe	31ff56f421e5fbf4
+5	1227	7005226012768037	tests/CMakeFiles/CMakeProjectDemo_test.dir/MyAwesomeClassTest.cpp.obj	1da9048d60638ccd
+1228	4541	7005226045820718	tests/CMakeProjectDemo_test.exe	31ff56f421e5fbf4
+0	81	7005226458044010	src/CMakeFiles/CMakeProjectDemo_run.dir/MyAwesomeClass.cpp.obj	32cf33c1212901c1
+7	82	7005226458044010	src/CMakeFiles/CMakeProjectDemo_run.dir/main.cpp.obj	d8cfeb124262aa76
+82	179	7005226458999174	src/CMakeProjectDemo_run.exe	a8e0b559cec43cdf
